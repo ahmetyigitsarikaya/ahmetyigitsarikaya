@@ -110,20 +110,20 @@ environment:      "Linux-First | Containerized | Virtualized (VMware & Hyper-V G
 
 <!-- Live Contribution Activity Graph -->
 <a href="https://github.com/ahmetyigitsarikaya">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetyigitsarikaya&bg_color=0d1117&color=38bdf8&line=0284c7&point=f8fafc&area=true&area_color=0284c7&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetyigitsarikaya&bg_color=0d1117&color=38bdf8&line=0284c7&point=f8fafc&area=true&area_color=0284c7&hide_border=true&custom_title=Contribution%20Activity&cache_seconds=1800" width="100%" alt="Contribution Activity Graph" />
 </a>
 
 <br/>
 
 <!-- Seamless Stats & Languages -->
 <p>
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ahmetyigitsarikaya&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&hide_border=true" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyigitsarikaya&layout=compact&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&hide_border=true" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ahmetyigitsarikaya&show_icons=true&count_private=true&hide_rank=true&cache_seconds=1800&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&hide_border=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyigitsarikaya&layout=compact&langs_count=8&cache_seconds=1800&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&hide_border=true" alt="Top Languages" />
 </p>
 
 <!-- Contribution Streak -->
 <p>
-  <img src="https://streak-stats.demolab.com?user=ahmetyigitsarikaya&background=0d1117&border=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=94a3b8&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ahmetyigitsarikaya&background=0d1117&border=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=94a3b8&hide_border=true&v=2" alt="GitHub Streak" />
 </p>
 
 </div>
