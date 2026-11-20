@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Sleek Dark-to-Cyan Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0f172a,80:0369a1,100:38bdf8&height=210&section=header&text=Ahmet%20Yi%C4%9Fit%20Sar%C4%B1kaya&fontSize=44&fontColor=ffffff&fontAlignY=37&desc=Cloud%20%26%20Backend%20Systems%20Architect%20%7C%20AI-Augmented%20Software%20Engineer&descAlignY=59&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0f172a,80:0369a1,100:38bdf8&height=210&section=header&text=Ahmet%20Yi%C4%9Fit%20Sar%C4%B1kaya&fontSize=44&fontColor=ffffff&fontAlignY=37&desc=Cloud%20%26amp%3B%20Backend%20Systems%20Architect%20%7C%20AI-Augmented%20Software%20Engineer&descAlignY=59&descSize=16&animation=fadeIn" width="100%" />
+
+<br/>
 
 <!-- Terminal Typing Subhead -->
 <a href="https://github.com/ahmetyigitsarikaya">
